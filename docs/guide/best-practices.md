@@ -33,8 +33,7 @@ The `remoteUrl` field supports pattern-based matching. Overly broad patterns can
 - Avoid `*` unless intentional
 - Be cautious with entire domains or CDN prefixes
 
-For Chrome’s official `urlFilter` syntax, see:  
-https://developer.chrome.com/docs/extensions/reference/api/declarativeNetRequest#url_filter_syntax
+For Chrome’s official `urlFilter` syntax, see: [declarativeNetRequest#url_filter_syntax](https://developer.chrome.com/docs/extensions/reference/api/declarativeNetRequest#url_filter_syntax)
 
 ## Pay Attention to Rule Priority
 
