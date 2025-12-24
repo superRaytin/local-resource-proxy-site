@@ -10,7 +10,7 @@ This is the stable version reviewed by the Chrome Web Store.
 - Fully reviewed and approved
 - Recommended for most users
 
-👉 **[Add to Chrome](https://chromewebstore.google.com/detail/local-resource-proxy/beegiejnndpmaffebpfmcpifhaljjmam)**
+👉 **[Add to Chrome](https://chromewebstore.google.com/detail/remote-override/beegiejnndpmaffebpfmcpifhaljjmam)**
 
 ## Option 2: Latest Build (Early Access)
 

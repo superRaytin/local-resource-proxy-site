@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Add to Chrome
-      link: https://chromewebstore.google.com/detail/local-resource-proxy/beegiejnndpmaffebpfmcpifhaljjmam
+      link: https://chromewebstore.google.com/detail/remote-override/beegiejnndpmaffebpfmcpifhaljjmam
     - theme: alt
       text: How to Use
       link: /guide/usage
@@ -27,7 +27,7 @@ features:
   - title: 🗂 Rule Grouping
     details: "Organize rules by project or feature.<br />Group related rules together to keep complex setups structured and readable."
   - title: ⚡ One-click Enable / Disable
-    details: "Turn rules on or off instantly.<br />Apply or pause rules without restarting Chrome or refreshing configurations."
+    details: "Turn rules on or off instantly.<br />Apply or pause rules without restarting Chrome."
   - title: 🧪 Built for Real-world Debugging
     details: "Designed for modern frontend workflows.<br />Ideal for API testing, CDN overrides, third-party script debugging, and more."
 ---

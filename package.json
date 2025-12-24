@@ -1,5 +1,5 @@
 {
-  "name": "local-resource-proxy-site",
+  "name": "remote-override-site",
   "private": true,
   "type": "module",
   "scripts": {
